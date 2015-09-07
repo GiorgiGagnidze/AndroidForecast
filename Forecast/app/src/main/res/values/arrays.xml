@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="place_names">
+        <item>Tbilisi</item>
+        <item>Batumi</item>
+        <item>Kobuleti</item>
+        <item>Kutaisi</item>
+        <item>Zugdidi</item>
+        <item>Kazbegi</item>
+        <item>Telavi</item>
+    </string-array>
+
+    <string-array name="latitudes">
+        <item>41.715138</item>
+        <item>41.616755</item>
+        <item>41.815997</item>
+        <item>42.224449</item>
+        <item>42.515353</item>
+        <item>42.580744</item>
+        <item>41.918509</item>
+    </string-array>
+    <string-array name="longitudes">
+        <item>44.827096</item>
+        <item>41.636745</item>
+        <item>41.78381</item>
+        <item>42.682553</item>
+        <item>41.864124</item>
+        <item>43.442452</item>
+        <item>45.477691</item>
+    </string-array>
+</resources>
